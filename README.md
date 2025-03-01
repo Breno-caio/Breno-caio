@@ -9,9 +9,8 @@
 ## 🚀 Technologies
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - 🗄️ SQL (PostgreSQL, MySQL)  
-- 📊 Power BI, Tableau, Streamlit  
+- 📊 Power BI, Tableau, Looker
 - 📂 Web Scraping (BeautifulSoup, Selenium)  
-- 🤖 Machine Learning (Scikit-learn, TensorFlow)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -30,9 +29,9 @@
 
   
 ## 🚀 Connect with me:
-<span><a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a></span> 
-<span><a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="Medium" /></a></span> 
-<span><a href="mailto:yourusername@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" alt="Gmail" /></a></span>  <br>
+<span><a href="https://linkedin.com/in/brenocaiorocha/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a></span> 
+<span><a href="https://medium.com/@brenocaio.rocha"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="Medium" /></a></span> 
+<span><a href="mailto:brenocaio.rocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" alt="Gmail" /></a></span>  <br>
 
 
 
